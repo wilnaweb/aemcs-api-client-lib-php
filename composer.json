@@ -1,0 +1,16 @@
+{
+    "name": "wilnaweb/aemcs-api-client-lib-php",
+    "description": "AEM-CS API Client Library PHP",
+    "version": "0.0.9",
+    "authors": [
+        {
+            "name": "Wilson Cavalcante",
+            "email": "wilson@wilnaweb.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "firebase/php-jwt": "^6.10"
+    }
+}
